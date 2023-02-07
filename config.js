@@ -1,8 +1,8 @@
-const nameGirl = 'mah pudding pie';
+const nameGirl = 'hello mah pudding pie';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'happy our 1st valentine';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc honey của anh 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
+const eventName = 'tự nhiên nhớ em nên gửi thui:<<';
+const titleCard = 'iu nkl';
+const contentCard = 'em bé chịu khó nhé, hum sau a sẽ ra nấu ăn và dỗ dành bé nhaa';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
