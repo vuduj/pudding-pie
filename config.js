@@ -1,7 +1,7 @@
 const nameGirl = 'hello mah pudding pie';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'tự nhiên nhớ em nên gửi thui:<<';
-const titleCard = 'iu nkl';
+const titleCard = 'định hsau gửi bé nma nhớ quá nên gửi lun :>>';
 const contentCard = 'em bé chịu khó nhé, hum sau a sẽ ra nấu ăn và dỗ dành bé nhaa';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
